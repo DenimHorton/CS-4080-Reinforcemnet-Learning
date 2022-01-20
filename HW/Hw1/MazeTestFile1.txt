@@ -1,0 +1,4 @@
+5                                           ; Maze of N X N Size (5 x 5 = 25)   
+[[3, 2], [3, 3], [3, 4], [3, 5], [5 ,3]]    ; Maze barriers
+[1, 1]                                      ; Maze start
+[5, 5]                                      ; Maze end
